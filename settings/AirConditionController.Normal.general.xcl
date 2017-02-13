@@ -1,0 +1,13 @@
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\bin\armproc.dll" 
+
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\bin\armjlink.dll" 
+
+"D:\SiliconLabs\EmberZNet5.7.2-GA\app\builder\AirConditionController\build\exe\AirConditionController.out" 
+
+--plugin "C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\bin\armbat.dll" 
+
+ --attach 
+
+
+
+

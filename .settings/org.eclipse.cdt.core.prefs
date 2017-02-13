@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+environment/project/com.silabs.ide.si32.iar.debug\#com.silabs.ide.si32.iar\:7.40.3.8902\ -\ EM3585/PATH/delimiter=;
+environment/project/com.silabs.ide.si32.iar.debug\#com.silabs.ide.si32.iar\:7.40.3.8902\ -\ EM3585/PATH/operation=prepend
+environment/project/com.silabs.ide.si32.iar.debug\#com.silabs.ide.si32.iar\:7.40.3.8902\ -\ EM3585/PATH/value=D\:\\SiliconLabs\\SimplicityStudio\\v3\\developer\\msys\\1.0\\bin
+environment/project/com.silabs.ide.si32.iar.debug\#com.silabs.ide.si32.iar\:7.40.3.8902\ -\ EM3585/append=true
+environment/project/com.silabs.ide.si32.iar.debug\#com.silabs.ide.si32.iar\:7.40.3.8902\ -\ EM3585/appendContributed=true
+environment/project/com.silabs.ide.si32.iar.debug\#com.silabs.ide.si32.iar\:7.40.3.8902/PATH/delimiter=;
+environment/project/com.silabs.ide.si32.iar.debug\#com.silabs.ide.si32.iar\:7.40.3.8902/PATH/operation=prepend
+environment/project/com.silabs.ide.si32.iar.debug\#com.silabs.ide.si32.iar\:7.40.3.8902/PATH/value=D\:\\SiliconLabs\\SimplicityStudio\\v3\\developer\\msys\\1.0\\bin
+environment/project/com.silabs.ide.si32.iar.debug\#com.silabs.ide.si32.iar\:7.40.3.8902/append=true
+environment/project/com.silabs.ide.si32.iar.debug\#com.silabs.ide.si32.iar\:7.40.3.8902/appendContributed=true
+environment/project/com.silabs.ide.si32.iar.release\#com.silabs.ide.si32.iar\:7.40.3.8902/PATH/delimiter=;
+environment/project/com.silabs.ide.si32.iar.release\#com.silabs.ide.si32.iar\:7.40.3.8902/PATH/operation=prepend
+environment/project/com.silabs.ide.si32.iar.release\#com.silabs.ide.si32.iar\:7.40.3.8902/PATH/value=D\:\\SiliconLabs\\SimplicityStudio\\v3\\developer\\msys\\1.0\\bin
+environment/project/com.silabs.ide.si32.iar.release\#com.silabs.ide.si32.iar\:7.40.3.8902/append=true
+environment/project/com.silabs.ide.si32.iar.release\#com.silabs.ide.si32.iar\:7.40.3.8902/appendContributed=true
